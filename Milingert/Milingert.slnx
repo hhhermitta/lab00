@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Milingert/Milingert.vcxproj" Id="cce7d686-8ff3-4afd-91a4-0951dbd155f1" />
+</Solution>
